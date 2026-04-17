@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN-REGEX,.*[-\.]?intl\.aliyun\.com$
+  - DOMAIN-REGEX,.*[-\.]?alibabacloud\.com$
+  - DOMAIN-REGEX,.*[-\.]?tencentcloud\.com$
+  - DOMAIN-REGEX,.*[-\.]?dcloud\.io$
+  - DOMAIN-REGEX,.*[-\.]?dcloud\.net$
+  - DOMAIN-REGEX,.*[-\.]?dcloud\.net\.cn$
